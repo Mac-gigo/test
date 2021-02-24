@@ -1,0 +1,1 @@
+"use strict";function a(){location.href="http://www.baidu.com"}a();
